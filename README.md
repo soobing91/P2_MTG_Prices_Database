@@ -2,7 +2,7 @@
 Team MTG - Gibran Ahmed, Paul Dean, Soo Bin Hwang and Seunghwa Jun
 
 ## Overview
-For MTG card players, a database with data that enables analyzing card price trends based on various metrics, such as converted mana cost and type is created. Combining these two databases would allow users to do trend analysis on these metrics, potentially allowing them to uncover opportunities for profit. There is a large "second-hand" market for sale and purchase of MTG card singles. Players would be able to get a better sense of which cards are under- and over-priced.
+For MTG card players, a database that enables analyzing card price trends based on various metrics, such as converted mana cost and type is created. Combining these two databases would allow users to do trend analysis on these metrics, potentially allowing them to uncover opportunities for profit. There is a large "second-hand" market for sale and purchase of MTG card singles. Players would be able to get a better sense of which cards are under- and over-priced.
 
 ### Extract (Original data sources and formats)
 * Magic the Gathering (MTG, collectable card games) from [Kaggle](https://www.kaggle.com/mylesoneill/magic-the-gathering-cards) in JSON
